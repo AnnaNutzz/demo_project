@@ -9,3 +9,6 @@ public class Subtraction {
         return mainStr.replace(subStr, "");  // Removes all occurrence.
     }
 }
+
+
+
