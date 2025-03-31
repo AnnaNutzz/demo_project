@@ -49,7 +49,7 @@ public class Main {
             System.out.println("Text Removal: " + subtraction.subtract(text1, text2));
 
         } else {
-            System.out.println("Invalid choice! Please select 1 or 2.");
+            System.out.println("Invalid choice! Please select 1 or 2..");
         }
 
         // Close the scanner
